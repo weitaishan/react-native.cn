@@ -50,7 +50,7 @@ React Navigation的路由写法使其非常容易扩展导航逻辑，或是整�
 
 React Navigation中的视图是原生组件，同时用到了运行在原生线程上的`Animated`动画库，因而性能表现十分流畅。此外其动画形式和手势都非常便于定制。
 
-要想详细了解React Navigation，可以阅读这一篇英文的[入门文档](https://reactnavigation.org/docs/intro/)。
+要想详细了解React Navigation，可以阅读这一篇英文的[入门文档](https://reactnavigation.org/docs/en/navigation-prop.html)。
 
 
 ## NavigatorIOS
